@@ -20,7 +20,7 @@ f you encounter problems, you can consult the author, who will try to reply you 
 
 <!-- https://github.com/badges/shields -->
 <p align="center">
-<a href="https://github.com/h-lua"><img src="https://img.shields.io/badge/GitHub-hLua-blue?logo=github" /></a>
+<a href="https://github.com/w3lik"><img src="https://img.shields.io/badge/GitHub-lik-blue?logo=github" /></a>
 <img src="https://img.shields.io/badge/QQG-476722600-orange?logo=tencentqq" />
 <img src="https://img.shields.io/badge/QQ-854588403-green?logo=tencentqq" />
 </p>
