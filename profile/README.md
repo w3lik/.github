@@ -7,7 +7,7 @@
 
 🚀 Lik is the most powerful lua mapping framework ever, it runs on windows platform. Because singluar is too bulky and heavy to cause some problems, lik is committed to solving all the problems, it combines YD, Dz, kk and other runtime environments, and create its own runtime environment, to play a unique concept, both powerful and free.
 
-Lik has the use of golang language management tools , and more powerful than all previous tools , it supports more advanced map hot update , more intelligent global code obfuscation encryption ( even including Chinese ) , more optimized the management of a variety of resources , can accurately prompt the user abuse of resources and the lack of power is unparalleled , non-competitive products on the market can be comparable to other .
+Lik has the use of golang language management tools , and more powerful than all previous tools , it supports more advanced map hot update , more intelligent global code obfuscation encryption ( even including Chinese ) , more optimized the management of a variety of resources , can accurately prompt the user abuse of resources and the lack of power is unparalleled , non-competitive products on the market can be comparable to other.
 
 <p align="center">
 <!-- https://github.com/tandpfun/skill-icons -->
@@ -21,7 +21,7 @@ f you encounter problems, you can consult the author, who will try to reply you 
 <!-- https://github.com/badges/shields -->
 <p align="center">
 <a href="https://github.com/w3lik"><img src="https://img.shields.io/badge/GitHub-lik-blue?logo=github" /></a>
-<img src="https://img.shields.io/badge/QQG-476722600-orange?logo=tencentqq" />
+<img src="https://img.shields.io/badge/QQ群-818513385-orange?logo=tencentqq" />
 <img src="https://img.shields.io/badge/QQ-854588403-green?logo=tencentqq" />
 </p>
 
@@ -29,7 +29,4 @@ f you encounter problems, you can consult the author, who will try to reply you 
 
 Thank you so much already for using my projects!
 
-If you want to go a step further and support my open source work,
-Become my fan: <a href='https://afdian.net/a/hunzsig' target='_blank'>afdian</a>
-
-Become a fan and you'll get access to more open source code and tons of resources for making projects!
+If you would like to further support my open source work or become a fan, visit <a href='https://www.hunzsig.com' target='_blank'>hunzsig.com</a> for more information and development updates.
