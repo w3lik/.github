@@ -16,7 +16,7 @@ Lik has the use of golang language management tools , and more powerful than all
 
 🌈 Use this framework , you can solve all lua environment , japi environment in a variety of strange problems . Has abandoned the poor quality and low-end slk method , everything comes back to lua code. More powerful and complete resource management module and UI writing module , the framework also encapsulates almost all the functions and methods that need to be used . In addition , also supports the insertion of sub-libraries and expansion libraries , so that users can quickly write business , separating them . At the same time the entire project has been basically open source , you can control it all.
 
-f you encounter problems, you can consult the author, who will try to reply you within 7 days.
+If you encounter problems, you can consult the author, who will try to reply you within 7 days.
 
 <!-- https://github.com/badges/shields -->
 <p align="center">
